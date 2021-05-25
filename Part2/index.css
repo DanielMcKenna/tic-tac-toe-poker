@@ -53,3 +53,14 @@ section span:nth-of-type(3) {
   width: 100px;
   border: 1px solid #000;
 }
+
+#inputSection {
+  width: 100%;
+  display: inline-flex;
+  justify-content: center;
+  margin: 15px;
+}
+
+#idInput {
+  margin-right: 15px;
+}
